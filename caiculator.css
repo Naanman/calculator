@@ -1,0 +1,18 @@
+|*{
+    margin: 0;
+    padding: 0;
+}
+input[type="button"] {
+    width: 100px;
+    height: 100px;
+    font-size: 25px;
+  }
+  input{
+    background-color: rgb(253, 236, 239);
+  }
+  #answer{
+    padding: 10px;
+  }
+  .num{
+    margin-top: 10px;
+  }
